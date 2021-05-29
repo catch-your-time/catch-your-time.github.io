@@ -1,7 +1,3 @@
 User-agent: *
-<<<<<<< HEAD
 Allow: /
 Disallow: /privacy-policy/
-=======
-Disallow: /
->>>>>>> 331f26f99f13415531dd71ea1fb7d320293bf25c
